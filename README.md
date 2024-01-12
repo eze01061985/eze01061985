@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jose Ezequiel Flores Menendez, but I preffer Ezequiel.
+# Hi there 👋, I'm Jose Ezequiel Flores Menendez, but I prefer Ezequiel.
 
 ## Full-stack software developer
 
